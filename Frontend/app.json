@@ -1,7 +1,7 @@
 {
     "expo":  {
                  "name":  "arrow-drive-app",
-                 "slug":  "arrow-drive-app",
+                 "slug":  "arrowdrive",
                  "version":  "1.0.0",
                  "orientation":  "portrait",
                  "icon":  "./assets/images/icon.png",
